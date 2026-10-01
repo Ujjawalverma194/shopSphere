@@ -1,0 +1,753 @@
+{
+  "products": [
+     {
+      "id": 1,
+      "name": "iPhone 13 Pro",
+      "slug": "iphone-13-pro",
+      "brand": "Apple",
+      "category": "Smartphones",
+      "price": 91299,
+      "originalPrice": 99237,
+      "discount": 8,
+      "currency": "INR",
+      "rating": 4.4,
+      "reviewCount": 3,
+      "stock": 3,
+      "description": "The iPhone 13 Pro has a 6.1-inch display, a triple camera system and all-day battery life.",
+      "image": "https://dummyjson.com/image/600x600/eeeeee/111111&text=iPhone+13+Pro",
+      "images": [
+        "https://dummyjson.com/image/600x600/eeeeee/111111&text=iPhone+13+Pro",
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=iPhone+13+Pro+Front",
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=iPhone+13+Pro+Back"
+      ],
+      "features": [
+        "6.1-inch Super Retina XDR display",
+        "Triple camera system",
+        "All-day battery life",
+        "5G connectivity"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23",
+      "slug": "samsung-galaxy-s23",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "price": 74999,
+      "originalPrice": 84999,
+      "discount": 12,
+      "currency": "INR",
+      "rating": 4.5,
+      "reviewCount": 8,
+      "stock": 12,
+      "description": "A premium Samsung smartphone with a bright AMOLED display, powerful processor and advanced camera system.",
+      "image": "https://dummyjson.com/image/600x600/eef2ff/111111&text=Samsung+Galaxy+S23",
+      "images": [
+        "https://dummyjson.com/image/600x600/eef2ff/111111&text=Galaxy+S23",
+        "https://dummyjson.com/image/600x600/e0e7ff/111111&text=Galaxy+S23+Front",
+        "https://dummyjson.com/image/600x600/f5f3ff/111111&text=Galaxy+S23+Back"
+      ],
+      "features": [
+        "6.1-inch AMOLED display",
+        "50MP main camera",
+        "Fast charging",
+        "5G connectivity"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 8",
+      "slug": "google-pixel-8",
+      "brand": "Google",
+      "category": "Smartphones",
+      "price": 58999,
+      "originalPrice": 69999,
+      "discount": 16,
+      "currency": "INR",
+      "rating": 4.3,
+      "reviewCount": 6,
+      "stock": 7,
+      "description": "Google Pixel 8 combines a smooth OLED display with powerful AI features and an excellent camera experience.",
+      "image": "https://dummyjson.com/image/600x600/f3f4f6/111111&text=Google+Pixel+8",
+      "images": [
+        "https://dummyjson.com/image/600x600/f3f4f6/111111&text=Google+Pixel+8",
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Pixel+8+Front",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=Pixel+8+Back"
+      ],
+      "features": [
+        "6.2-inch OLED display",
+        "Google Tensor processor",
+        "50MP camera",
+        "AI-powered features"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 12",
+      "slug": "oneplus-12",
+      "brand": "OnePlus",
+      "category": "Smartphones",
+      "price": 64999,
+      "originalPrice": 69999,
+      "discount": 7,
+      "currency": "INR",
+      "rating": 4.6,
+      "reviewCount": 11,
+      "stock": 9,
+      "description": "OnePlus 12 delivers flagship performance with a high-refresh-rate display, powerful processor and fast charging.",
+      "image": "https://dummyjson.com/image/600x600/f5f5f5/111111&text=OnePlus+12",
+      "images": [
+        "https://dummyjson.com/image/600x600/f5f5f5/111111&text=OnePlus+12",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=OnePlus+12+Front",
+        "https://dummyjson.com/image/600x600/ede9fe/111111&text=OnePlus+12+Back"
+      ],
+      "features": [
+        "6.82-inch AMOLED display",
+        "Snapdragon flagship processor",
+        "50MP main camera",
+        "100W fast charging"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 5,
+      "name": "MacBook Air M2",
+      "slug": "macbook-air-m2",
+      "brand": "Apple",
+      "category": "Laptops",
+      "price": 94999,
+      "originalPrice": 109999,
+      "discount": 14,
+      "currency": "INR",
+      "rating": 4.8,
+      "reviewCount": 15,
+      "stock": 5,
+      "description": "A lightweight MacBook with Apple's M2 chip, long battery life and a high-resolution Retina display.",
+      "image": "https://dummyjson.com/image/600x600/f1f5f9/111111&text=MacBook+Air+M2",
+      "images": [
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=MacBook+Air+M2",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=MacBook+Open",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=MacBook+Side"
+      ],
+      "features": [
+        "Apple M2 chip",
+        "13.6-inch Retina display",
+        "Up to 18 hours battery life",
+        "Lightweight aluminium design"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 6,
+      "name": "Sony WH-1000XM5",
+      "slug": "sony-wh-1000xm5",
+      "brand": "Sony",
+      "category": "Headphones",
+      "price": 29990,
+      "originalPrice": 34990,
+      "discount": 14,
+      "currency": "INR",
+      "rating": 4.7,
+      "reviewCount": 13,
+      "stock": 18,
+      "description": "Premium wireless headphones with industry-leading noise cancellation and immersive sound.",
+      "image": "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Sony+WH-1000XM5",
+      "images": [
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Sony+WH-1000XM5",
+        "https://dummyjson.com/image/600x600/f3f4f6/111111&text=Sony+Headphones+Side"
+      ],
+      "features": [
+        "Active noise cancellation",
+        "30-hour battery life",
+        "Wireless Bluetooth",
+        "High-quality audio"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 7,
+      "name": "iPhone 15",
+      "slug": "iphone-15",
+      "brand": "Apple",
+      "category": "Smartphones",
+      "price": 69999,
+      "originalPrice": 79999,
+      "discount": 13,
+      "currency": "INR",
+      "rating": 4.5,
+      "reviewCount": 18,
+      "stock": 10,
+      "description": "iPhone 15 features a bright Super Retina XDR display, advanced camera system and powerful performance.",
+      "image": "https://dummyjson.com/image/600x600/eeeeee/111111&text=iPhone+15",
+      "images": [
+        "https://dummyjson.com/image/600x600/eeeeee/111111&text=iPhone+15",
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=iPhone+15+Front",
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=iPhone+15+Back"
+      ],
+      "features": [
+        "6.1-inch Super Retina XDR display",
+        "48MP main camera",
+        "A16 Bionic chip",
+        "USB-C connectivity"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy S24",
+      "slug": "samsung-galaxy-s24",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "price": 79999,
+      "originalPrice": 89999,
+      "discount": 11,
+      "currency": "INR",
+      "rating": 4.6,
+      "reviewCount": 21,
+      "stock": 8,
+      "description": "Samsung Galaxy S24 combines a vivid AMOLED display, powerful processor and advanced AI-powered features.",
+      "image": "https://dummyjson.com/image/600x600/eef2ff/111111&text=Samsung+Galaxy+S24",
+      "images": [
+        "https://dummyjson.com/image/600x600/eef2ff/111111&text=Galaxy+S24",
+        "https://dummyjson.com/image/600x600/e0e7ff/111111&text=Galaxy+S24+Front",
+        "https://dummyjson.com/image/600x600/f5f3ff/111111&text=Galaxy+S24+Back"
+      ],
+      "features": [
+        "6.2-inch Dynamic AMOLED display",
+        "50MP main camera",
+        "Galaxy AI features",
+        "5G connectivity"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 9,
+      "name": "Google Pixel 8 Pro",
+      "slug": "google-pixel-8-pro",
+      "brand": "Google",
+      "category": "Smartphones",
+      "price": 84999,
+      "originalPrice": 99999,
+      "discount": 15,
+      "currency": "INR",
+      "rating": 4.5,
+      "reviewCount": 14,
+      "stock": 6,
+      "description": "Pixel 8 Pro offers Google's advanced camera system, Tensor processing and intelligent AI features.",
+      "image": "https://dummyjson.com/image/600x600/f3f4f6/111111&text=Google+Pixel+8+Pro",
+      "images": [
+        "https://dummyjson.com/image/600x600/f3f4f6/111111&text=Pixel+8+Pro",
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Pixel+8+Pro+Front",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=Pixel+8+Pro+Back"
+      ],
+      "features": [
+        "6.7-inch LTPO OLED display",
+        "50MP triple camera system",
+        "Google Tensor G3 processor",
+        "AI-powered photography"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 10,
+      "name": "OnePlus 12R",
+      "slug": "oneplus-12r",
+      "brand": "OnePlus",
+      "category": "Smartphones",
+      "price": 42999,
+      "originalPrice": 49999,
+      "discount": 14,
+      "currency": "INR",
+      "rating": 4.5,
+      "reviewCount": 17,
+      "stock": 14,
+      "description": "OnePlus 12R delivers smooth flagship-style performance with a high-refresh-rate AMOLED display.",
+      "image": "https://dummyjson.com/image/600x600/f5f5f5/111111&text=OnePlus+12R",
+      "images": [
+        "https://dummyjson.com/image/600x600/f5f5f5/111111&text=OnePlus+12R",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=OnePlus+12R+Front",
+        "https://dummyjson.com/image/600x600/ede9fe/111111&text=OnePlus+12R+Back"
+      ],
+      "features": [
+        "6.78-inch AMOLED display",
+        "Snapdragon 8 Gen 2 processor",
+        "50MP main camera",
+        "100W fast charging"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi 14",
+      "slug": "xiaomi-14",
+      "brand": "Xiaomi",
+      "category": "Smartphones",
+      "price": 69999,
+      "originalPrice": 79999,
+      "discount": 13,
+      "currency": "INR",
+      "rating": 4.4,
+      "reviewCount": 12,
+      "stock": 11,
+      "description": "Xiaomi 14 features a compact AMOLED display, flagship processor and versatile Leica camera system.",
+      "image": "https://dummyjson.com/image/600x600/f8fafc/111111&text=Xiaomi+14",
+      "images": [
+        "https://dummyjson.com/image/600x600/f8fafc/111111&text=Xiaomi+14",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=Xiaomi+14+Front",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=Xiaomi+14+Back"
+      ],
+      "features": [
+        "6.36-inch AMOLED display",
+        "Snapdragon 8 Gen 3 processor",
+        "Leica camera system",
+        "90W fast charging"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 12,
+      "name": "Nothing Phone 2",
+      "slug": "nothing-phone-2",
+      "brand": "Nothing",
+      "category": "Smartphones",
+      "price": 44999,
+      "originalPrice": 49999,
+      "discount": 10,
+      "currency": "INR",
+      "rating": 4.3,
+      "reviewCount": 9,
+      "stock": 15,
+      "description": "Nothing Phone 2 combines a distinctive transparent design with a smooth OLED display and powerful performance.",
+      "image": "https://dummyjson.com/image/600x600/f1f5f9/111111&text=Nothing+Phone+2",
+      "images": [
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=Nothing+Phone+2",
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Nothing+Phone+2+Front",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=Nothing+Phone+2+Back"
+      ],
+      "features": [
+        "6.7-inch OLED display",
+        "Glyph Interface",
+        "Snapdragon 8+ Gen 1 processor",
+        "50MP dual camera"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 13,
+      "name": "MacBook Air M3",
+      "slug": "macbook-air-m3",
+      "brand": "Apple",
+      "category": "Laptops",
+      "price": 104999,
+      "originalPrice": 119999,
+      "discount": 13,
+      "currency": "INR",
+      "rating": 4.8,
+      "reviewCount": 24,
+      "stock": 7,
+      "description": "MacBook Air M3 is a lightweight laptop with powerful Apple silicon, excellent battery life and a Retina display.",
+      "image": "https://dummyjson.com/image/600x600/f1f5f9/111111&text=MacBook+Air+M3",
+      "images": [
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=MacBook+Air+M3",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=MacBook+Air+M3+Open",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=MacBook+Air+M3+Side"
+      ],
+      "features": [
+        "Apple M3 chip",
+        "13.6-inch Liquid Retina display",
+        "Up to 18 hours battery life",
+        "Lightweight aluminium design"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 14,
+      "name": "Dell XPS 13",
+      "slug": "dell-xps-13",
+      "brand": "Dell",
+      "category": "Laptops",
+      "price": 114999,
+      "originalPrice": 129999,
+      "discount": 12,
+      "currency": "INR",
+      "rating": 4.5,
+      "reviewCount": 16,
+      "stock": 6,
+      "description": "Dell XPS 13 is a premium compact laptop designed for productivity with a high-quality display and modern processor.",
+      "image": "https://dummyjson.com/image/600x600/e2e8f0/111111&text=Dell+XPS+13",
+      "images": [
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=Dell+XPS+13",
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=Dell+XPS+13+Open",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=Dell+XPS+13+Side"
+      ],
+      "features": [
+        "13.4-inch InfinityEdge display",
+        "Intel Core Ultra processor",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 15,
+      "name": "HP Spectre x360",
+      "slug": "hp-spectre-x360",
+      "brand": "HP",
+      "category": "Laptops",
+      "price": 124999,
+      "originalPrice": 139999,
+      "discount": 11,
+      "currency": "INR",
+      "rating": 4.6,
+      "reviewCount": 13,
+      "stock": 5,
+      "description": "HP Spectre x360 is a versatile premium 2-in-1 laptop with a vibrant touchscreen and powerful performance.",
+      "image": "https://dummyjson.com/image/600x600/f3f4f6/111111&text=HP+Spectre+x360",
+      "images": [
+        "https://dummyjson.com/image/600x600/f3f4f6/111111&text=HP+Spectre+x360",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=HP+Spectre+Open",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=HP+Spectre+Side"
+      ],
+      "features": [
+        "14-inch OLED touchscreen",
+        "Intel Core Ultra processor",
+        "16GB RAM",
+        "1TB SSD"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 16,
+      "name": "Lenovo Yoga Slim 7",
+      "slug": "lenovo-yoga-slim-7",
+      "brand": "Lenovo",
+      "category": "Laptops",
+      "price": 79999,
+      "originalPrice": 89999,
+      "discount": 11,
+      "currency": "INR",
+      "rating": 4.4,
+      "reviewCount": 10,
+      "stock": 9,
+      "description": "Lenovo Yoga Slim 7 is a slim productivity laptop with a bright display and long-lasting battery.",
+      "image": "https://dummyjson.com/image/600x600/eef2ff/111111&text=Lenovo+Yoga+Slim+7",
+      "images": [
+        "https://dummyjson.com/image/600x600/eef2ff/111111&text=Lenovo+Yoga+Slim+7",
+        "https://dummyjson.com/image/600x600/e0e7ff/111111&text=Lenovo+Yoga+Open",
+        "https://dummyjson.com/image/600x600/f5f3ff/111111&text=Lenovo+Yoga+Side"
+      ],
+      "features": [
+        "14-inch OLED display",
+        "AMD Ryzen processor",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 17,
+      "name": "Sony WH-1000XM4",
+      "slug": "sony-wh-1000xm4",
+      "brand": "Sony",
+      "category": "Headphones",
+      "price": 24990,
+      "originalPrice": 29990,
+      "discount": 17,
+      "currency": "INR",
+      "rating": 4.6,
+      "reviewCount": 20,
+      "stock": 20,
+      "description": "Sony WH-1000XM4 headphones provide excellent noise cancellation, rich audio and long wireless battery life.",
+      "image": "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Sony+WH-1000XM4",
+      "images": [
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Sony+WH-1000XM4",
+        "https://dummyjson.com/image/600x600/f3f4f6/111111&text=Sony+XM4+Side"
+      ],
+      "features": [
+        "Active noise cancellation",
+        "30-hour battery life",
+        "Bluetooth wireless",
+        "Touch controls"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 18,
+      "name": "Apple AirPods Pro 2",
+      "slug": "apple-airpods-pro-2",
+      "brand": "Apple",
+      "category": "Headphones",
+      "price": 22999,
+      "originalPrice": 26999,
+      "discount": 15,
+      "currency": "INR",
+      "rating": 4.7,
+      "reviewCount": 25,
+      "stock": 16,
+      "description": "AirPods Pro 2 offer active noise cancellation, immersive audio and seamless integration with Apple devices.",
+      "image": "https://dummyjson.com/image/600x600/f8fafc/111111&text=AirPods+Pro+2",
+      "images": [
+        "https://dummyjson.com/image/600x600/f8fafc/111111&text=AirPods+Pro+2",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=AirPods+Pro+2+Case"
+      ],
+      "features": [
+        "Active noise cancellation",
+        "Adaptive Transparency",
+        "USB-C charging",
+        "Spatial Audio"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 19,
+      "name": "Bose QuietComfort Ultra",
+      "slug": "bose-quietcomfort-ultra",
+      "brand": "Bose",
+      "category": "Headphones",
+      "price": 34990,
+      "originalPrice": 39990,
+      "discount": 13,
+      "currency": "INR",
+      "rating": 4.7,
+      "reviewCount": 11,
+      "stock": 10,
+      "description": "Bose QuietComfort Ultra headphones combine powerful noise cancellation with immersive premium sound.",
+      "image": "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Bose+QuietComfort+Ultra",
+      "images": [
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Bose+QuietComfort+Ultra",
+        "https://dummyjson.com/image/600x600/f3f4f6/111111&text=Bose+QuietComfort+Ultra+Side"
+      ],
+      "features": [
+        "Immersive Audio",
+        "Advanced noise cancellation",
+        "24-hour battery life",
+        "Bluetooth wireless"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 20,
+      "name": "JBL Live 770NC",
+      "slug": "jbl-live-770nc",
+      "brand": "JBL",
+      "category": "Headphones",
+      "price": 7999,
+      "originalPrice": 9999,
+      "discount": 20,
+      "currency": "INR",
+      "rating": 4.4,
+      "reviewCount": 14,
+      "stock": 22,
+      "description": "JBL Live 770NC headphones provide adaptive noise cancellation, powerful sound and long battery life.",
+      "image": "https://dummyjson.com/image/600x600/dbeafe/111111&text=JBL+Live+770NC",
+      "images": [
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=JBL+Live+770NC",
+        "https://dummyjson.com/image/600x600/e0e7ff/111111&text=JBL+Live+770NC+Side"
+      ],
+      "features": [
+        "Adaptive noise cancellation",
+        "65-hour battery life",
+        "Bluetooth wireless",
+        "JBL Pure Bass Sound"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 21,
+      "name": "Apple Watch Series 9",
+      "slug": "apple-watch-series-9",
+      "brand": "Apple",
+      "category": "Smartwatches",
+      "price": 39999,
+      "originalPrice": 44999,
+      "discount": 11,
+      "currency": "INR",
+      "rating": 4.7,
+      "reviewCount": 19,
+      "stock": 13,
+      "description": "Apple Watch Series 9 combines health tracking, fitness features and smart connectivity in a compact design.",
+      "image": "https://dummyjson.com/image/600x600/f1f5f9/111111&text=Apple+Watch+Series+9",
+      "images": [
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=Apple+Watch+Series+9",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=Apple+Watch+Series+9+Front",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=Apple+Watch+Series+9+Side"
+      ],
+      "features": [
+        "Always-On Retina display",
+        "Advanced health tracking",
+        "GPS connectivity",
+        "Water resistant"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 22,
+      "name": "Samsung Galaxy Watch 6",
+      "slug": "samsung-galaxy-watch-6",
+      "brand": "Samsung",
+      "category": "Smartwatches",
+      "price": 24999,
+      "originalPrice": 29999,
+      "discount": 17,
+      "currency": "INR",
+      "rating": 4.5,
+      "reviewCount": 15,
+      "stock": 17,
+      "description": "Galaxy Watch 6 offers advanced fitness tracking, health monitoring and a bright AMOLED display.",
+      "image": "https://dummyjson.com/image/600x600/eef2ff/111111&text=Galaxy+Watch+6",
+      "images": [
+        "https://dummyjson.com/image/600x600/eef2ff/111111&text=Galaxy+Watch+6",
+        "https://dummyjson.com/image/600x600/e0e7ff/111111&text=Galaxy+Watch+6+Front",
+        "https://dummyjson.com/image/600x600/f5f3ff/111111&text=Galaxy+Watch+6+Side"
+      ],
+      "features": [
+        "1.5-inch Super AMOLED display",
+        "Advanced sleep tracking",
+        "Heart rate monitoring",
+        "5ATM water resistance"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 23,
+      "name": "Apple iPad Air",
+      "slug": "apple-ipad-air",
+      "brand": "Apple",
+      "category": "Tablets",
+      "price": 54999,
+      "originalPrice": 59999,
+      "discount": 8,
+      "currency": "INR",
+      "rating": 4.7,
+      "reviewCount": 18,
+      "stock": 9,
+      "description": "iPad Air combines a powerful Apple chip with a vibrant Liquid Retina display for work, creativity and entertainment.",
+      "image": "https://dummyjson.com/image/600x600/f1f5f9/111111&text=iPad+Air",
+      "images": [
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=iPad+Air",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=iPad+Air+Front",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=iPad+Air+Back"
+      ],
+      "features": [
+        "10.9-inch Liquid Retina display",
+        "Apple M1 chip",
+        "12MP camera",
+        "Apple Pencil support"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 24,
+      "name": "Samsung Galaxy Tab S9",
+      "slug": "samsung-galaxy-tab-s9",
+      "brand": "Samsung",
+      "category": "Tablets",
+      "price": 69999,
+      "originalPrice": 79999,
+      "discount": 13,
+      "currency": "INR",
+      "rating": 4.6,
+      "reviewCount": 12,
+      "stock": 8,
+      "description": "Galaxy Tab S9 is a premium Android tablet with a vibrant AMOLED display, powerful performance and S Pen support.",
+      "image": "https://dummyjson.com/image/600x600/eef2ff/111111&text=Galaxy+Tab+S9",
+      "images": [
+        "https://dummyjson.com/image/600x600/eef2ff/111111&text=Galaxy+Tab+S9",
+        "https://dummyjson.com/image/600x600/e0e7ff/111111&text=Galaxy+Tab+S9+Front",
+        "https://dummyjson.com/image/600x600/f5f3ff/111111&text=Galaxy+Tab+S9+Back"
+      ],
+      "features": [
+        "11-inch Dynamic AMOLED 2X",
+        "Snapdragon 8 Gen 2 processor",
+        "S Pen included",
+        "IP68 water resistance"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 25,
+      "name": "Sony Bravia 55 4K TV",
+      "slug": "sony-bravia-55-4k-tv",
+      "brand": "Sony",
+      "category": "Televisions",
+      "price": 74999,
+      "originalPrice": 89999,
+      "discount": 17,
+      "currency": "INR",
+      "rating": 4.6,
+      "reviewCount": 16,
+      "stock": 5,
+      "description": "Sony Bravia 55-inch 4K TV delivers detailed picture quality, smart streaming features and immersive sound.",
+      "image": "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Sony+Bravia+55+4K",
+      "images": [
+        "https://dummyjson.com/image/600x600/e5e7eb/111111&text=Sony+Bravia+55+4K",
+        "https://dummyjson.com/image/600x600/f3f4f6/111111&text=Sony+Bravia+Front",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=Sony+Bravia+Side"
+      ],
+      "features": [
+        "55-inch 4K display",
+        "HDR support",
+        "Google TV",
+        "Dolby Audio"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    },
+    {
+      "id": 26,
+      "name": "LG OLED 55 4K TV",
+      "slug": "lg-oled-55-4k-tv",
+      "brand": "LG",
+      "category": "Televisions",
+      "price": 89999,
+      "originalPrice": 109999,
+      "discount": 18,
+      "currency": "INR",
+      "rating": 4.8,
+      "reviewCount": 22,
+      "stock": 4,
+      "description": "LG OLED 55-inch TV provides deep blacks, vivid colors and smart entertainment features.",
+      "image": "https://dummyjson.com/image/600x600/f1f5f9/111111&text=LG+OLED+55+4K",
+      "images": [
+        "https://dummyjson.com/image/600x600/f1f5f9/111111&text=LG+OLED+55+4K",
+        "https://dummyjson.com/image/600x600/e2e8f0/111111&text=LG+OLED+Front",
+        "https://dummyjson.com/image/600x600/dbeafe/111111&text=LG+OLED+Side"
+      ],
+      "features": [
+        "55-inch OLED 4K display",
+        "Dolby Vision",
+        "webOS smart platform",
+        "Dolby Atmos"
+      ],
+      "delivery": "Free delivery above ₹500",
+      "returnPolicy": "7-day return policy"
+    }
+  ]
+}
